@@ -1,5 +1,335 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "a0e15m8MO1U",
+            "name": "Piano Concerto No. 1 in E Minor, Op. 11\uff1a I. Allegro maestoso [a0e15m8MO1U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a I. Allegro maestoso [a0e15m8MO1U].mp4",
+            "size": 42.743294,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a I. Allegro maestoso [a0e15m8MO1U].mp4"
+        },
+        {
+            "id": "ZavXp8xL6cU",
+            "name": "Piano Concerto No. 1 in E Minor, Op. 11\uff1a II. Romance. Larghetto [ZavXp8xL6cU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a II. Romance. Larghetto [ZavXp8xL6cU].mp4",
+            "size": 20.965294,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a II. Romance. Larghetto [ZavXp8xL6cU].mp4"
+        },
+        {
+            "id": "DBCQJIwXcFI",
+            "name": "Nocturne No. 4 in F Major, Op. 15 No. 1 [DBCQJIwXcFI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Nocturne No. 4 in F Major, Op. 15 No. 1 [DBCQJIwXcFI].mp4",
+            "size": 8.138995,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Nocturne No. 4 in F Major, Op. 15 No. 1 [DBCQJIwXcFI].mp4"
+        },
+        {
+            "id": "bzJRbZN8vH8",
+            "name": "Polonaise No. 6 in A-Flat Major, Op. 53 \uff02Heroic\uff02 [bzJRbZN8vH8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Polonaise No. 6 in A-Flat Major, Op. 53 \uff02Heroic\uff02 [bzJRbZN8vH8].mp4",
+            "size": 14.758198,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Polonaise No. 6 in A-Flat Major, Op. 53 \uff02Heroic\uff02 [bzJRbZN8vH8].mp4"
+        },
+        {
+            "id": "8deGsKS1rqE",
+            "name": "Mazurka No. 37 in A-Flat Major, Op. 59 No. 2 [8deGsKS1rqE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Mazurka No. 37 in A-Flat Major, Op. 59 No. 2 [8deGsKS1rqE].mp4",
+            "size": 6.391023,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Mazurka No. 37 in A-Flat Major, Op. 59 No. 2 [8deGsKS1rqE].mp4"
+        },
+        {
+            "id": "jgk6w9aN5KY",
+            "name": "Hoy Est\u00e1s Quiz\u00e1s M\u00e1s Lejos [jgk6w9aN5KY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Hoy Est\u00e1s Quiz\u00e1s M\u00e1s Lejos [jgk6w9aN5KY].mp4",
+            "size": 11.111608,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Hoy Est\u00e1s Quiz\u00e1s M\u00e1s Lejos [jgk6w9aN5KY].mp4"
+        },
+        {
+            "id": "lVOatVILZCM",
+            "name": "Rapsodia Rom\u00e2n\u0103 nr. 1 \u00een La major, op. 11 [lVOatVILZCM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Rapsodia Rom\u00e2n\u0103 nr. 1 \u00een La major, op. 11 [lVOatVILZCM].mp4",
+            "size": 23.948591999999998,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Rapsodia Rom\u00e2n\u0103 nr. 1 \u00een La major, op. 11 [lVOatVILZCM].mp4"
+        },
+        {
+            "id": "pEo4yHJHk5g",
+            "name": "Piano Sonata No. 3 in B Minor, Op. 58\uff1a II. Scherzo [pEo4yHJHk5g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a II. Scherzo [pEo4yHJHk5g].mp4",
+            "size": 6.011800999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a II. Scherzo [pEo4yHJHk5g].mp4"
+        },
+        {
+            "id": "kY4qQwd2XpM",
+            "name": "Sanctuary [kY4qQwd2XpM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Sanctuary [kY4qQwd2XpM].mp4",
+            "size": 25.890371,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Sanctuary [kY4qQwd2XpM].mp4"
+        },
+        {
+            "id": "rlvrBO6XZ-Q",
+            "name": "Imaginary Lines [rlvrBO6XZ-Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Imaginary Lines [rlvrBO6XZ-Q].mp4",
+            "size": 25.174681999999997,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Imaginary Lines [rlvrBO6XZ-Q].mp4"
+        },
+        {
+            "id": "tRYgoKqx6JM",
+            "name": "Bart\u00f3k - Piano Concerto No. 1, Sz. 83 \u29f8 Remastered (Century's recording\uff1a G\u00e9za Anda, Ferenc Fricsay) [tRYgoKqx6JM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Bart\u00f3k - Piano Concerto No. 1, Sz. 83 \u29f8 Remastered (Century's recording\uff1a G\u00e9za Anda, Ferenc Fricsay) [tRYgoKqx6JM].mp4",
+            "size": 40.367191999999996,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Bart\u00f3k - Piano Concerto No. 1, Sz. 83 \u29f8 Remastered (Century's recording\uff1a G\u00e9za Anda, Ferenc Fricsay) [tRYgoKqx6JM].mp4"
+        },
+        {
+            "id": "Xy5upBN5goc",
+            "name": "Piano Sonata No. 3 in B Minor, Op. 58\uff1a III. Largo [Xy5upBN5goc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a III. Largo [Xy5upBN5goc].mp4",
+            "size": 19.308338,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a III. Largo [Xy5upBN5goc].mp4"
+        },
+        {
+            "id": "SOHama2AY0Q",
+            "name": "Debussy - Images I & II - Michelangeli Vatican 1987-SOHama2AY0Q.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Debussy - Images I & II - Michelangeli Vatican 1987-SOHama2AY0Q.mp4",
+            "size": 33.164121,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Debussy - Images I & II - Michelangeli Vatican 1987-SOHama2AY0Q.mp4"
+        },
+        {
+            "id": "wbFiXhhP638",
+            "name": "Preludio en do mayor de Bach-wbFiXhhP638.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Preludio en do mayor de Bach-wbFiXhhP638.mp4",
+            "size": 6.551247,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Preludio en do mayor de Bach-wbFiXhhP638.mp4"
+        },
+        {
+            "id": "4ST_d1Rn75w",
+            "name": "Piano Sonata No. 3 in B Minor, Op. 58\uff1a IV. Finale. Presto non tanto [4ST_d1Rn75w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a IV. Finale. Presto non tanto [4ST_d1Rn75w].mp4",
+            "size": 7.28658,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a IV. Finale. Presto non tanto [4ST_d1Rn75w].mp4"
+        },
+        {
+            "id": "qrxDs45ZQJw",
+            "name": "Eso No Es Amor [qrxDs45ZQJw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Eso No Es Amor [qrxDs45ZQJw].mp4",
+            "size": 8.836363,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Eso No Es Amor [qrxDs45ZQJw].mp4"
+        },
+        {
+            "id": "9RWQo02Zz18",
+            "name": "Mi Dulce Ni\u00f1a [9RWQo02Zz18].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Mi Dulce Ni\u00f1a [9RWQo02Zz18].mp4",
+            "size": 9.357638,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Mi Dulce Ni\u00f1a [9RWQo02Zz18].mp4"
+        },
+        {
+            "id": "f9TMM6ItrYk",
+            "name": "Vuelve A Sacudirse El Continente [f9TMM6ItrYk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Vuelve A Sacudirse El Continente [f9TMM6ItrYk].mp4",
+            "size": 12.657802,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Vuelve A Sacudirse El Continente [f9TMM6ItrYk].mp4"
+        },
+        {
+            "id": "CuR1hvzncmo",
+            "name": "Ka Bohaleng \u29f8 On the Sharp Side [CuR1hvzncmo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Ka Bohaleng \u29f8 On the Sharp Side [CuR1hvzncmo].mp4",
+            "size": 6.957641,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Ka Bohaleng \u29f8 On the Sharp Side [CuR1hvzncmo].mp4"
+        },
+        {
+            "id": "m2BliQgcRLA",
+            "name": "Mazurka No. 36 in A Minor, Op. 59 No. 1 [m2BliQgcRLA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Mazurka No. 36 in A Minor, Op. 59 No. 1 [m2BliQgcRLA].mp4",
+            "size": 8.517783,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Mazurka No. 36 in A Minor, Op. 59 No. 1 [m2BliQgcRLA].mp4"
+        },
+        {
+            "id": "ySjsadhmnNI",
+            "name": "Schubert orch. Kabalevsky \uff1a Fantasy in F minor for piano and orchestra D. 940 (1828 orch. 1961) [ySjsadhmnNI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Schubert orch. Kabalevsky \uff1a Fantasy in F minor for piano and orchestra D. 940 (1828 orch. 1961) [ySjsadhmnNI].mp4",
+            "size": 27.223257999999998,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Schubert orch. Kabalevsky \uff1a Fantasy in F minor for piano and orchestra D. 940 (1828 orch. 1961) [ySjsadhmnNI].mp4"
+        },
+        {
+            "id": "djV5-8eTh7Y",
+            "name": "Enrique Granados orch. Rafael Ferrer \uff1a Danzas Espa\u00f1olas Op. 37 (1890), arr. for orchestra - part one [djV5-8eTh7Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Enrique Granados orch. Rafael Ferrer \uff1a Danzas Espa\u00f1olas Op. 37 (1890), arr. for orchestra - part one [djV5-8eTh7Y].mp4",
+            "size": 43.125592,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Enrique Granados orch. Rafael Ferrer \uff1a Danzas Espa\u00f1olas Op. 37 (1890), arr. for orchestra - part one [djV5-8eTh7Y].mp4"
+        },
+        {
+            "id": "KU1ZZnMVY5M",
+            "name": "Piano Concerto No. 2 in F Minor, Op. 21\uff1a I. Maestoso [KU1ZZnMVY5M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a I. Maestoso [KU1ZZnMVY5M].mp4",
+            "size": 30.516014,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a I. Maestoso [KU1ZZnMVY5M].mp4"
+        },
+        {
+            "id": "MoPsHWPIxp0",
+            "name": "Ingeborg Hallstein sings Proch's 'Air et Variations' deh torna mio bene [MoPsHWPIxp0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Ingeborg Hallstein sings Proch's 'Air et Variations' deh torna mio bene [MoPsHWPIxp0].mp4",
+            "size": 7.536943,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Ingeborg Hallstein sings Proch's 'Air et Variations' deh torna mio bene [MoPsHWPIxp0].mp4"
+        },
+        {
+            "id": "efyqaN9hdMQ",
+            "name": "Piano Concerto No. 2 in F Minor, Op. 21\uff1a III. Allegro vivace [efyqaN9hdMQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a III. Allegro vivace [efyqaN9hdMQ].mp4",
+            "size": 18.787261,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a III. Allegro vivace [efyqaN9hdMQ].mp4"
+        },
+        {
+            "id": "iY2LoMnLtno",
+            "name": "Pathways Of The Mind [iY2LoMnLtno].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Pathways Of The Mind [iY2LoMnLtno].mp4",
+            "size": 51.144531,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Pathways Of The Mind [iY2LoMnLtno].mp4"
+        },
+        {
+            "id": "MH2PT3B73pg",
+            "name": "B\u00fascate All\u00ed [MH2PT3B73pg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/B\u00fascate All\u00ed [MH2PT3B73pg].mp4",
+            "size": 9.297799,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/B\u00fascate All\u00ed [MH2PT3B73pg].mp4"
+        },
+        {
+            "id": "yl3yzoLBKHc",
+            "name": "\ub5a0\ub09c\ub2e4 (Escape) [yl3yzoLBKHc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/\ub5a0\ub09c\ub2e4 (Escape) [yl3yzoLBKHc].mp4",
+            "size": 11.236277,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/\ub5a0\ub09c\ub2e4 (Escape) [yl3yzoLBKHc].mp4"
+        },
+        {
+            "id": "Y7km17LIaQI",
+            "name": "Piano Concerto No. 1 in E Minor, Op. 11\uff1a III. Rondo. Vivace [Y7km17LIaQI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a III. Rondo. Vivace [Y7km17LIaQI].mp4",
+            "size": 20.859256,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 1 in E Minor, Op. 11\uff1a III. Rondo. Vivace [Y7km17LIaQI].mp4"
+        },
+        {
+            "id": "-zzhh47c_tI",
+            "name": "Horace Andy - \uff02Showcase\uff02 Full Album Reggae [-zzhh47c_tI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Horace Andy - \uff02Showcase\uff02 Full Album Reggae [-zzhh47c_tI].mp4",
+            "size": 49.725643999999996,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Horace Andy - \uff02Showcase\uff02 Full Album Reggae [-zzhh47c_tI].mp4"
+        },
+        {
+            "id": "kYDhEtjg_XE",
+            "name": "Piano Concerto in B Minor, Op. 89\uff1a II. Larghetto [kYDhEtjg_XE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto in B Minor, Op. 89\uff1a II. Larghetto [kYDhEtjg_XE].mp4",
+            "size": 22.5443,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto in B Minor, Op. 89\uff1a II. Larghetto [kYDhEtjg_XE].mp4"
+        },
+        {
+            "id": "Lc1QG4noC_w",
+            "name": "El Guerrero [Lc1QG4noC_w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/El Guerrero [Lc1QG4noC_w].mp4",
+            "size": 9.060594,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/El Guerrero [Lc1QG4noC_w].mp4"
+        },
+        {
+            "id": "zqzZKaAgi5E",
+            "name": "Te Espera Una Noche De \u00c9xitos [zqzZKaAgi5E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Te Espera Una Noche De \u00c9xitos [zqzZKaAgi5E].mp4",
+            "size": 8.390468,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Te Espera Una Noche De \u00c9xitos [zqzZKaAgi5E].mp4"
+        },
+        {
+            "id": "1kYy-ScouwU",
+            "name": "Piano Concerto No. 2 in F Minor, Op. 21\uff1a II. Larghetto [1kYy-ScouwU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a II. Larghetto [1kYy-ScouwU].mp4",
+            "size": 20.819806,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Concerto No. 2 in F Minor, Op. 21\uff1a II. Larghetto [1kYy-ScouwU].mp4"
+        },
+        {
+            "id": "J3X41yRB46s",
+            "name": "Introduction and Polonaise brillante in C Major, Op. 3\uff1a Introduction. Lento (Live) [J3X41yRB46s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Introduction and Polonaise brillante in C Major, Op. 3\uff1a Introduction. Lento (Live) [J3X41yRB46s].mp4",
+            "size": 6.438746999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Introduction and Polonaise brillante in C Major, Op. 3\uff1a Introduction. Lento (Live) [J3X41yRB46s].mp4"
+        },
+        {
+            "id": "M1HJw-ELIIo",
+            "name": "Mazurka No. 38 in F-Sharp Minor, Op. 59 No. 3 [M1HJw-ELIIo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Mazurka No. 38 in F-Sharp Minor, Op. 59 No. 3 [M1HJw-ELIIo].mp4",
+            "size": 7.277563,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Mazurka No. 38 in F-Sharp Minor, Op. 59 No. 3 [M1HJw-ELIIo].mp4"
+        },
+        {
+            "id": "xEZqUMHU4t4",
+            "name": "Magnetic Currents [xEZqUMHU4t4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Magnetic Currents [xEZqUMHU4t4].mp4",
+            "size": 9.369468999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Magnetic Currents [xEZqUMHU4t4].mp4"
+        },
+        {
+            "id": "xXOvfygQ-N8",
+            "name": "Nicky Thomas - Is It Because I'm Black\uff1f [xXOvfygQ-N8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Nicky Thomas - Is It Because I'm Black\uff1f [xXOvfygQ-N8].mp4",
+            "size": 52.379712999999995,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Nicky Thomas - Is It Because I'm Black\uff1f [xXOvfygQ-N8].mp4"
+        },
+        {
+            "id": "DUjVb_6rfXo",
+            "name": "Cu\u00e1nto Gan\u00e9, Cu\u00e1nto Perd\u00ed [DUjVb_6rfXo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Cu\u00e1nto Gan\u00e9, Cu\u00e1nto Perd\u00ed [DUjVb_6rfXo].mp4",
+            "size": 15.568764999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Cu\u00e1nto Gan\u00e9, Cu\u00e1nto Perd\u00ed [DUjVb_6rfXo].mp4"
+        },
+        {
+            "id": "hZZTNq6Fabs",
+            "name": "Homenaje [hZZTNq6Fabs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Homenaje [hZZTNq6Fabs].mp4",
+            "size": 13.589288999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Homenaje [hZZTNq6Fabs].mp4"
+        },
+        {
+            "id": "ekOCpUUihMo",
+            "name": "KING TUBBY & THE AGGROVATORS - Dubbing In The Backyard [1982 Full Album] [ekOCpUUihMo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/KING TUBBY & THE AGGROVATORS - Dubbing In The Backyard [1982 Full Album] [ekOCpUUihMo].mp4",
+            "size": 57.793893,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/KING TUBBY & THE AGGROVATORS - Dubbing In The Backyard [1982 Full Album] [ekOCpUUihMo].mp4"
+        },
+        {
+            "id": "FEzmynYDcP0",
+            "name": "Introduction and Polonaise brillante in C Major, Op. 3\uff1a Alla polacca. Allegro con spirito (Live) [FEzmynYDcP0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Introduction and Polonaise brillante in C Major, Op. 3\uff1a Alla polacca. Allegro con spirito (Live) [FEzmynYDcP0].mp4",
+            "size": 13.640507999999999,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Introduction and Polonaise brillante in C Major, Op. 3\uff1a Alla polacca. Allegro con spirito (Live) [FEzmynYDcP0].mp4"
+        },
+        {
+            "id": "KJWfazDiYuI",
+            "name": "Grids And Patterns [KJWfazDiYuI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Grids And Patterns [KJWfazDiYuI].mp4",
+            "size": 27.408939999999998,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Grids And Patterns [KJWfazDiYuI].mp4"
+        },
+        {
+            "id": "D0ilH7GiDqk",
+            "name": "Dame la Mano [D0ilH7GiDqk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Dame la Mano [D0ilH7GiDqk].mp4",
+            "size": 7.188082,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Dame la Mano [D0ilH7GiDqk].mp4"
+        },
+        {
+            "id": "XDpLx0s1FJ8",
+            "name": "Piano Sonata No. 3 in B Minor, Op. 58\uff1a I. Allegro maestoso [XDpLx0s1FJ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a I. Allegro maestoso [XDpLx0s1FJ8].mp4",
+            "size": 19.656238,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Piano Sonata No. 3 in B Minor, Op. 58\uff1a I. Allegro maestoso [XDpLx0s1FJ8].mp4"
+        },
+        {
+            "id": "a4g005qu1NE",
+            "name": "405 De Nunca [a4g005qu1NE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/405 De Nunca [a4g005qu1NE].mp4",
+            "size": 9.360467,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/405 De Nunca [a4g005qu1NE].mp4"
+        },
+        {
+            "id": "Tf5IT0VhuCs",
+            "name": "Scherzo No. 3 in C-Sharp Minor, Op. 39 [Tf5IT0VhuCs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f5/videos/Scherzo No. 3 in C-Sharp Minor, Op. 39 [Tf5IT0VhuCs].mp4",
+            "size": 15.870042,
+            "url": "https://github.com/circuitalmynds/music_f5/raw/main/videos/Scherzo No. 3 in C-Sharp Minor, Op. 39 [Tf5IT0VhuCs].mp4"
+        }
+    ],
+    "total_size": 923.9480220000002
 }
